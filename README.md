@@ -1,3 +1,7 @@
+#MinimalBLog
+
+*MinimalBlog is a blog builded during a course of jekyll. this blog is builded using the minima template.
+
 # minima
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
